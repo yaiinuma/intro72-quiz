@@ -11,3 +11,6 @@ cdk.out/
 
 # VSCode settings (optional)
 .vscode/
+
+# Node modules for frontend
+web/node_modules/
